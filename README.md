@@ -32,6 +32,7 @@
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/2.png" width="800px"/>
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/3.png" width="800px"/>
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/4.png" width="800px"/>
+  <img src = "https://github.com/MinjKang/shoebox_final/blob/main/10.png" width="800px"/>
 </p>
  
  <br />
