@@ -39,10 +39,10 @@
 
 ## 📝 서비스 흐름도
 <p align="center">
-   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/5.png" width="800px"/>
    <img src = "https://github.com/choirayeon/shoebox_final/blob/main/6.png" width="800px"/>
-   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/7.png" width="800px"/>
    <img src = "https://github.com/choirayeon/shoebox_final/blob/main/8.png" width="800px"/>
+   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/5.png" width="800px"/>
+   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/7.png" width="800px"/>
    <img src = "https://github.com/MinjKang/shoebox_final/blob/main/9.png" width="800px"/>
 </p>
  <br />
